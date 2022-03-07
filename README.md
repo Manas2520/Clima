@@ -10,4 +10,4 @@ http
 flutter_spinkit
 
 # APIs Used : 
-OpenWeatherMap
+https://openweathermap.org/
